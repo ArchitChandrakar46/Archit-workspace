@@ -2,6 +2,10 @@
 JEDITOR is an online code editor and IDE designed to simplify coding tasks for HTML, CSS, and JavaScript. 
 It provides separate sections for coding in each of these languages along with a live output section, allowing users to see their changes instantly.
 
+<h3>Hosted Link</h3>
+https://architchandrakar46.github.io/Archit-workspace/
+
+
 <h3> Project Description</h3>
 JEDITOR aims to streamline the process of web development by providing a convenient platform where developers can write, edit, and test their code in real-time.
 With separate sections for HTML, CSS, and JavaScript, users can easily organize and manage their code while observing the results simultaneously.
